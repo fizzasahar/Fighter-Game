@@ -114,3 +114,4 @@ function animation2() {
 }
 window.addEventListener("keydown", animation1);
 window.addEventListener("keydown", animation2);
+
